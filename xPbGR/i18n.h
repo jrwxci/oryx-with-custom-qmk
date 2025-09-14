@@ -6,7 +6,6 @@
 #define UK_DQUO S(KC_2)
 #define UK_AT S(KC_QUOT)
 #define UK_BSLS KC_NUBS
-#define UK_PIPE S(KC_NUBS)
 #define UK_LPRN S(KC_9)
 #define UK_RPRN S(KC_0)
 #define UK_AMPR S(KC_7)

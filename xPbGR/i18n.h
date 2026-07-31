@@ -8,11 +8,11 @@
 #define UK_AT S(KC_QUOT)
 #define UK_BSLS KC_NUBS
 #define UK_ASTR S(KC_8)
+#define UK_GRV KC_GRV
 #define UK_LPRN S(KC_9)
 #define UK_RPRN S(KC_0)
 #define UK_AMPR S(KC_7)
 #define UK_PERC S(KC_5)
-#define UK_GRV KC_GRV
 #define UK_LCBR S(KC_LBRC)
 #define UK_RCBR S(KC_RBRC)
 #define UK_LBRC KC_LBRC

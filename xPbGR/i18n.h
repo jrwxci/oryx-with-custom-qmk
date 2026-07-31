@@ -1,3 +1,4 @@
+#define UK_PND S(KC_3)
 #define UK_CIRC S(KC_6)
 #define UK_TILD S(KC_NUHS)
 #define UK_HASH KC_NUHS
@@ -11,6 +12,7 @@
 #define UK_RPRN S(KC_0)
 #define UK_AMPR S(KC_7)
 #define UK_PERC S(KC_5)
+#define UK_GRV KC_GRV
 #define UK_LCBR S(KC_LBRC)
 #define UK_RCBR S(KC_RBRC)
 #define UK_LBRC KC_LBRC

@@ -1,10 +1,10 @@
 #define UK_PND S(KC_3)
 #define UK_CIRC S(KC_6)
-#define UK_TILD S(KC_NUHS)
 #define UK_HASH KC_NUHS
 #define UK_EXLM S(KC_1)
 #define UK_QUES S(KC_SLSH)
 #define UK_DQUO S(KC_2)
+#define UK_TILD S(KC_NUHS)
 #define UK_AT S(KC_QUOT)
 #define UK_BSLS KC_NUBS
 #define UK_ASTR S(KC_8)
